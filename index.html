@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Guia de Descarte</title>
+</head>
+<body>
+    <header>
+        <h1>Descarte de Resíduos</h1>
+    </header>
+    <main>
+        <section>
+            <!-- Corrigido o id duplicado do campo de pesquisa -->
+            <input type="text" id="campo-pesquisa" placeholder="Qual resíduo você deseja descartar?">
+            <button onclick="pesquisar()">Pesquisar</button>
+        </section>
+        <section class="resultados-pesquisa" id="resultados-pesquisa">  
+        </section>
+    </main>
+    <footer>
+        <p>2024 - Guia de Descarte. Todos os direitos Reservados</p>
+        <p>Entre em contato: Guia de Descarte@gmail.com</p>
+    </footer>
+    <script src="dados.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
+
