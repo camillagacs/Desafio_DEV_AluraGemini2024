@@ -11,4 +11,4 @@ Este projeto web tem como objetivo auxiliar os usuários a encontrarem informaç
 ## Como Usar
 1. **Clone o repositório:**
    ```bash
-   git clone [URL inválido removido]
+   git clone [[URL inválido removido]](https://desafio-dev-alura-gemini2024.vercel.app)
