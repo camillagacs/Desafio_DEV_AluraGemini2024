@@ -1,9 +1,14 @@
-Descarte de Resíduos
-Descrição:
-O projeto Descarte de Resíduos foi desenvolvido durante a Imersão Alura Gemini de Setembro de 2024. O objetivo principal é oferecer soluções inovadoras e sustentáveis para o descarte de resíduos, ajudando a promover práticas de gestão ambiental mais eficazes e conscientes.
+# Guia de Descarte
 
-Tecnologias utilizadas:
+## Descrição
+Este projeto web tem como objetivo auxiliar os usuários a encontrarem informações sobre o descarte correto de diversos tipos de resíduos. Através de uma interface intuitiva, o usuário pode pesquisar por um determinado tipo de resíduo e obter informações sobre como descartá-lo de forma segura e responsável.
 
-HTML: Estrutura da página.
-CSS: Estilização da página.
-JavaScript: Lógica da aplicação, interação com o usuário e manipulação de dados.
+## Tecnologias Utilizadas
+* **HTML:** Estrutura básica da página.
+* **CSS:** Estilização da interface com um design moderno e responsivo.
+* **JavaScript:** Lógica para a pesquisa e exibição dos resultados.
+
+## Como Usar
+1. **Clone o repositório:**
+   ```bash
+   git clone [URL inválido removido]
